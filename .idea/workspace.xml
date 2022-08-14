@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0bf259-a7bb-48cd-92a7-5fedaaf642f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/appveyor" beforeDir="false" afterPath="$PROJECT_DIR$/appveyor" afterDir="false" />
-    </list>
+    <list default="true" id="0e0bf259-a7bb-48cd-92a7-5fedaaf642f1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
